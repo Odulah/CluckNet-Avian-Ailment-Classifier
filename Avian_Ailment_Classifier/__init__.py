@@ -19,4 +19,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("cnnClassifierLogger")
+logger = logging.getLogger("Avian_Ailment_ClassifierLogger")

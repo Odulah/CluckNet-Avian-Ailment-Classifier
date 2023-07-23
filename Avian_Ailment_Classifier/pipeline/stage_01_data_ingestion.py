@@ -1,6 +1,6 @@
-from Avian_Ailment_classifier.config.configuration import ConfigurationManager
-from Avian_Ailment_classifier.components.data_ingestion import DataIngestion
-from Avian_Ailment_classifier import logger
+from Avian_Ailment_Classifier.config.configuration import ConfigurationManager
+from Avian_Ailment_Classifier.components.data_ingestion import DataIngestion
+from Avian_Ailment_Classifier import logger
 
 
 STAGE_NAME = "Data Ingestion stage"

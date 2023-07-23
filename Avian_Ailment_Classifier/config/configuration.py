@@ -1,8 +1,8 @@
-from Avian_Ailment_classifier.constants import *
+from Avian_Ailment_Classifier.constants import *
 import os
 from pathlib import Path
-from Avian_Ailment_classifier.utils.common import read_yaml, create_directories
-from Avian_Ailment_classifier.entity.config_entity import (DataIngestionConfig)
+from Avian_Ailment_Classifier.utils.common import read_yaml, create_directories
+from Avian_Ailment_Classifier.entity.config_entity import (DataIngestionConfig)
 
 
 class ConfigurationManager:

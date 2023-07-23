@@ -1,7 +1,7 @@
 import os
 from box.exceptions import BoxValueError
 import yaml
-from Avian_Ailment_classifier import logger
+from Avian_Ailment_Classifier import logger
 import json
 import joblib
 from ensure import ensure_annotations

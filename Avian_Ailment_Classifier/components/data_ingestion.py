@@ -1,9 +1,9 @@
 import os
 import urllib.request as request
 import zipfile
-from Avian_Ailment_classifier import logger
-from Avian_Ailment_classifier.utils.common import get_size
-from Avian_Ailment_classifier.entity.config_entity import DataIngestionConfig
+from Avian_Ailment_Classifier import logger
+from Avian_Ailment_Classifier.utils.common import get_size
+from Avian_Ailment_Classifier.entity.config_entity import DataIngestionConfig
 from pathlib import Path
 
 

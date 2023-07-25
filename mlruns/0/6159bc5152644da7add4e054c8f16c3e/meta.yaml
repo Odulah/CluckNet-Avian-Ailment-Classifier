@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DLproject/CluckNet-Avian-Ailment-Classifier/mlruns/0/6159bc5152644da7add4e054c8f16c3e/artifacts
+end_time: 1690316410179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6159bc5152644da7add4e054c8f16c3e
+run_name: awesome-snipe-670
+run_uuid: 6159bc5152644da7add4e054c8f16c3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690316378897
+status: 3
+tags: []
+user_id: DELL
